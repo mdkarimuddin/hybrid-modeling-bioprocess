@@ -2,6 +2,10 @@
 
 A comprehensive machine learning pipeline that combines mechanistic ODE models with deep learning (LSTM) for bioprocess prediction and optimization. This implementation is inspired by Yokogawa Insilico Biotechnology's digital twin technology for cell culture processes.
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![ML](https://img.shields.io/badge/ML-Hybrid%20Modeling-orange.svg)
+
 ## 🎯 Overview
 
 This pipeline implements a **hybrid modeling approach** that:
@@ -255,9 +259,9 @@ Contributions are welcome! Areas for improvement:
 - Real-time prediction capabilities
 - Integration with process control systems
 
-## 📄 License
+## 📜 License
 
-This project is provided as-is for educational and research purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
