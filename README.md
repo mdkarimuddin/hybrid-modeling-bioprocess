@@ -265,6 +265,15 @@ This project is provided as-is for educational and research purposes.
 - The bioprocess modeling community
 - Open-source ML and scientific computing libraries
 
+## 👤 Author
+
+**Md Karim Uddin, PhD**  
+PhD Veterinary Medicine | MEng Big Data Analytics  
+Postdoctoral Researcher, University of Helsinki
+
+- GitHub: [@mdkarimuddin](https://github.com/mdkarimuddin)
+- LinkedIn: [Md Karim Uddin, PhD](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
+
 ## 📧 Contact
 
 For questions or suggestions, please open an issue or contact the maintainer.
